@@ -1,0 +1,1175 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fix",
+				"clearfix 	Bootstrap 3 Class"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"f",
+				"fixed-top 	Bootstrap 4 Class"
+			],
+			[
+				"col-xs-p",
+				"col-xs-pull-12 	Bootstrap 3 Class"
+			],
+			[
+				"conta",
+				"container-fluid 	Bootstrap 4 Class"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"cap",
+				"capitalize"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"vis",
+				"visibility"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"container",
+				"container-fluid 	Bootstrap 3 Class"
+			],
+			[
+				"fl",
+				"flex-row 	Bootstrap 4 Class"
+			],
+			[
+				"row",
+				"flex-row 	Bootstrap 4 Class"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"argin",
+				"margin-bottom"
+			],
+			[
+				"zin",
+				"z-index"
+			],
+			[
+				"PADDIN",
+				"padding-left"
+			],
+			[
+				"MAR",
+				"margin-bottom"
+			],
+			[
+				"Z",
+				"z-index"
+			],
+			[
+				"ju",
+				"justify"
+			],
+			[
+				"FON",
+				"font-family"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"navbar-fi",
+				"navbar-fixed-top 	Bootstrap 3 Class"
+			],
+			[
+				"nav",
+				"navbar	navbar"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"TEXT",
+				"text-decoration"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"id",
+				"id	Attr"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"app",
+				"appRoutes	const"
+			],
+			[
+				"const",
+				"const	keyword"
+			],
+			[
+				"aler",
+				"alert:danger	danger"
+			],
+			[
+				"ng",
+				"ng2-component	Angular 2 Component Snippet"
+			],
+			[
+				"On",
+				"OnInit	alias"
+			],
+			[
+				"impo",
+				"import	imports a module …"
+			],
+			[
+				"imp",
+				"import	imports a module …"
+			],
+			[
+				"res",
+				"Response	interface"
+			],
+			[
+				"content",
+				"cards:content_type	content-type"
+			],
+			[
+				"hea",
+				"Headers	alias"
+			],
+			[
+				"st",
+				"stringify	method"
+			],
+			[
+				"_route",
+				"_routeParams	property"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"li",
+				"list	list"
+			],
+			[
+				"Resta",
+				"RestaurantesNuevo	alias"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"_",
+				"_routeParams	property"
+			],
+			[
+				"ROUTER",
+				"ROUTER_DIRECTIVES	const"
+			],
+			[
+				"na",
+				"navigate	method"
+			],
+			[
+				"stat",
+				"status	var"
+			],
+			[
+				"get",
+				"getRestaurante	method"
+			],
+			[
+				"g",
+				"get	method"
+			],
+			[
+				"Rest",
+				"RestauranteService	alias"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"rou",
+				"RouteConfig	alias"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"lo",
+				"logRestaurantes	method"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"null",
+				"null	keyword"
+			],
+			[
+				"i",
+				"if	if …"
+			],
+			[
+				"Htt",
+				"HTTP_PROVIDERS	const"
+			],
+			[
+				"Res",
+				"RestauranteService	alias"
+			],
+			[
+				"import",
+				"import	keyword"
+			],
+			[
+				"padin",
+				"padding-left"
+			],
+			[
+				"lis",
+				"lis	list-style"
+			],
+			[
+				"on",
+				"ngOnInit	method"
+			],
+			[
+				"Cur",
+				"Curso	alias"
+			],
+			[
+				"R",
+				"ROUTER_DIRECTIVES	const"
+			],
+			[
+				"_rou",
+				"_routeParams	property"
+			],
+			[
+				"con",
+				"constructor	keyword"
+			],
+			[
+				"cur",
+				"cursos	parameter"
+			],
+			[
+				"Cata",
+				"CatalogoCursos	alias"
+			],
+			[
+				"Rou",
+				"RouteConfig	alias"
+			],
+			[
+				"Router",
+				"Router	alias"
+			],
+			[
+				"cons",
+				"const	keyword"
+			],
+			[
+				"impor",
+				"import	keyword"
+			],
+			[
+				"Curs",
+				"CursosService	alias"
+			],
+			[
+				"im",
+				"import	keyword"
+			],
+			[
+				"impot",
+				"import	keyword"
+			],
+			[
+				"sty",
+				"styleUrls	property"
+			],
+			[
+				"list",
+				"list	local var"
+			],
+			[
+				"de",
+				"desplegar	method"
+			],
+			[
+				"nu",
+				"nuevo_registro	local var"
+			],
+			[
+				"str",
+				"string	parameter"
+			],
+			[
+				"In",
+				"Inventariable	class"
+			],
+			[
+				"onC",
+				"onclick	Attr"
+			],
+			[
+				"es",
+				"extends	keyword"
+			],
+			[
+				"me",
+				"medida	property"
+			],
+			[
+				"cla",
+				"class	class …"
+			],
+			[
+				"ar",
+				"articulo	parameter"
+			],
+			[
+				"pri",
+				"private	keyword"
+			],
+			[
+				"ge",
+				"getFabricante	method"
+			],
+			[
+				"en",
+				"encendido	property"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"boolean",
+				"boolean	keyword"
+			],
+			[
+				"le",
+				"let	keyword"
+			],
+			[
+				"pe",
+				"peso	property"
+			],
+			[
+				"b",
+				"bhp	property"
+			],
+			[
+				"string",
+				"string	keyword"
+			],
+			[
+				"my",
+				"myStr	let"
+			],
+			[
+				"nom",
+				"nombre_usuario	let"
+			],
+			[
+				"HT",
+				"HTMLElement	interface"
+			],
+			[
+				"func",
+				"function	keyword"
+			],
+			[
+				"bl",
+				"block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/app/contact/contact.component.html",
+			"settings":
+			{
+				"buffer_size": 1314,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/Kreys/pre-prod/systemjs.config.server.js",
+			"settings":
+			{
+				"buffer_size": 1826,
+				"line_ending": "Windows",
+				"name": "paths: {"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/Kreys/Elementos/curso-angular2-final/index.html",
+			"settings":
+			{
+				"buffer_size": 765,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<!doctype html>\n    <html lang=\"en\">\n      <head>\n        <meta charset=\"utf-8\">\n        <meta name=\"description\" content=\"Free Web tutorials\">\n        <meta name=\"keywords\" content=\"HTML,CSS,XML,JavaScript\">\n        <meta name=\"author\" content=\"Green Lyon 2017 ®\">\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n\n        <title>Kreis Industries</title>\n        <base href=\"/\">\n        <link href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css\" rel=\"stylesheet\" integrity=\"sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u\" crossorigin=\"anonymous\">  \n        <link rel=\"icon\" type=\"image/x-icon\" href=\"favicon.ico\">\n\n        <script src=\"node_modules/core-js/client/shim.min.js\"></script>\n        <script src=\"node_modules/zone.js/dist/zone.js\"></script>\n        <script src=\"node_modules/reflect-metadata/Reflect.js\"></script>\n        <script src=\"node_modules/systemjs/dist/system.src.js\"></script>\n    \n       <script src=\"systemjs.config.js\"></script>\n       <script>\n         System.import('main.js').catch(function(err){ console.error(err); });\n       </script>\n\n	</head>\n	<body>\n        <app-root>Loading...</app-root>\n\n	</body>\n  <script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js\" integrity=\"sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa\" crossorigin=\"anonymous\"></script> \n</html>\n",
+			"file": "/C/xampp/htdocs/Kreys/pre-prod/index.html",
+			"file_size": 1420,
+			"file_write_time": 131405935350304661,
+			"settings":
+			{
+				"buffer_size": 1423,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main.ts",
+			"settings":
+			{
+				"buffer_size": 336,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Contro",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control:ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 448.0
+	},
+	"console":
+	{
+		"height": 60.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/Kreys/pre-prod/src/index.html",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/contact/contact.component.css",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/welcome/welcome.component.html",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/index.html",
+		"/C/xampp/htdocs/Kreys/avances/.angular-cli.json",
+		"/C/xampp/htdocs/Kreys/avances/package.json",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/app.component.html",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/styles.css",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/about/about.component.css",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/about/about.component.html",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/welcome/welcome.component.css",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/service-portfolio/service-portfolio.component.css",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/brands/brands.component.ts",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/service-portfolio/service-portfolio.component.html",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/brands/brands.component.css",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/brands/brands.component.html",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/navi/navi.component.css",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/contact/contact.component.html",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/gallery/gallery.component.css",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/gallery/gallery.component.html",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/navi/navi.component.html",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/navi/navi.component.ts",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/footer/footer.component.css",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/about/about.component.ts",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/footer/footer.component.ts",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/footer/footer.component.html",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/app.component.ts",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/node_modules/bootstrap/package.json",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/app.module.ts",
+		"/C/xampp/htdocs/Kreys/Elementos/curso-angular2-final/app/app.component.ts",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/welcome/welcome.component.ts",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/service-portfolio/service-portfolio.component.ts",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/gallery/gallery.component.ts",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/contact/contact.component.ts",
+		"/C/xampp/htdocs/Kreys/kreys_industries/index.html",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/.angular-cli.json",
+		"/C/xampp/htdocs/webapp/Restaurantes/app/view/home.html",
+		"/C/xampp/htdocs/webapp/Restaurantes/app/components/restaurantes-nuevo.component.ts",
+		"/C/xampp/htdocs/webapp/Restaurantes/app/components/restaurantes-list.component.ts",
+		"/C/xampp/htdocs/webapp/Restaurantes/app/components/restaurantes-detalle.component.ts",
+		"/C/xampp/htdocs/webapp/Restaurantes/app/main.ts",
+		"/C/xampp/htdocs/webapp/Restaurantes/app/app.component.ts",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/package.json",
+		"/C/xampp/htdocs/angular4/my-first-app/src/app/success-alert/success-alert.component.ts",
+		"/C/xampp/htdocs/angular4/my-first-app/src/app/warning-alert/warning-alert.component.ts",
+		"/C/xampp/htdocs/angular4/my-first-app/src/app/app.module.ts",
+		"/C/xampp/htdocs/angular4/my-first-app/src/app/app.component.html",
+		"/C/xampp/htdocs/angular4/my-first-app/src/app/servers/servers.component.html",
+		"/C/xampp/htdocs/angular4/my-first-app/src/app/warning-alert/warnin-galert.component.ts",
+		"/C/xampp/htdocs/angular4/my-first-app/src/app/warning-alert/warning-alert.component.html",
+		"/C/xampp/htdocs/angular4/my-first-app/src/app/warning-alert/warning-alert.component.css",
+		"/C/xampp/htdocs/angular4/my-first-app/src/app/one/app.one.component.html",
+		"/C/xampp/htdocs/angular4/my-first-app/src/app/one/app.one.component.css",
+		"/C/xampp/htdocs/angular4/my-first-app/src/app/one/app.one.component.ts",
+		"/C/xampp/htdocs/angular4/my-first-app/src/app/app.component.ts",
+		"/C/xampp/htdocs/angular4/my-first-app/src/app/app.component.css",
+		"/C/xampp/htdocs/angular4/my-first-app/src/app/servers/servers.component.ts",
+		"/C/xampp/htdocs/angular4/my-first-app/src/index.html",
+		"/C/xampp/htdocs/angular4/my-first-app/src/app/server/server.component.html",
+		"/C/xampp/htdocs/angular4/my-first-app/src/app/server/server.component.ts",
+		"/C/xampp/htdocs/angular4/my-first-app/.angular-cli.json",
+		"/C/Users/MARIANO/AppData/Roaming/Sublime Text 3/Packages/User/Typescript.sublime-settings",
+		"/C/Users/MARIANO/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/xampp/htdocs/webapp/Restaurantes/app/view/restaurantes-nuevo.html",
+		"/C/xampp/htdocs/webapp/Restaurantes/app/services/restaurante.service.ts",
+		"/C/xampp/htdocs/webapp/Restaurantes/app/view/restaurantes-list.html",
+		"/C/Users/MARIANO/Downloads/PopcornTime/Prometheus (2012)/Prometheus.2012.720p.BluRay.X264.YIFY.mp4",
+		"/C/xampp/htdocs/webapp/Restaurantes/assets/css/styles.css",
+		"/C/xampp/htdocs/Angular2/Angular2/Ang2-U02-V09-AA1/app/view/nuevo-cursos.html",
+		"/C/xampp/htdocs/webapp/Restaurantes/app/view/restaurantes-detalle.html",
+		"/C/xampp/htdocs/webapp/Restaurantes/app/components/restaurante-nuevo.component.ts",
+		"/C/xampp/htdocs/webapp/Restaurantes/index.html",
+		"/C/xampp/htdocs/Angular2/Angular2/Ang2-U02-V09-AA1/app/main.ts",
+		"/C/xampp/htdocs/webapp/index.html",
+		"/C/xampp/htdocs/webapp/assets/css/styles.css",
+		"/C/xampp/htdocs/webapp/app/components/restaurantes-list.component.ts",
+		"/C/xampp/htdocs/webapp/app/app.component.ts",
+		"/C/xampp/htdocs/webapp/app/components/restaurantes-detalle.component.ts",
+		"/C/xampp/htdocs/webapp/app/view/restaurantes-detalle.html",
+		"/C/xampp/htdocs/webapp/app/view/restaurantes-list.html",
+		"/C/xampp/htdocs/webapp/app/services/restaurante.service.ts",
+		"/C/xampp/htdocs/webapp/webapp/.git/refs/heads/development",
+		"/C/xampp/htdocs/webapp/webapp/.git/refs/heads/master",
+		"/C/xampp/htdocs/webapp/webapp/.git/info/exclude",
+		"/C/xampp/htdocs/webapp/webapp/.git/index",
+		"/C/xampp/htdocs/webapp/webapp/.git/ORIG_HEAD",
+		"/C/xampp/htdocs/webapp/webapp/.git/config",
+		"/C/xampp/htdocs/webapp/npm-debug.log",
+		"/C/xampp/htdocs/webapp/app/view/home.html",
+		"/C/xampp/htdocs/webapp/app/components/restaurantes-detalles.component.ts",
+		"/C/xampp/htdocs/slim/restaurantes-api.php",
+		"/C/xampp/htdocs/webapp/app/main.ts",
+		"/C/xampp/htdocs/webapp/.gitignore",
+		"/C/xampp/htdocs/Angular2/Angular2/webapp/app/services/restaurante.service.ts",
+		"/C/xampp/htdocs/slim/index.php",
+		"/C/xampp/htdocs/slim/composer.json",
+		"/C/xampp/htdocs/slim/vendor/composer/autoload_real.php",
+		"/C/xampp/htdocs/slim/vendor/autoload.php",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/xampp/htdocs/Angular2/Angular2/webapp/index.html",
+		"/C/xampp/htdocs/Angular2/Angular2/webapp/app/view/home.html",
+		"/C/xampp/htdocs/Angular2/Angular2/webapp/app/view/restaurantes-list.html",
+		"/C/xampp/htdocs/Angular2/Angular2/webapp/app/components/restaurantes-list.component.ts",
+		"/C/xampp/htdocs/Angular2/Angular2/webapp/app/app.component.ts",
+		"/C/xampp/htdocs/Angular2/Angular2/webapp/assets/css/styles.css",
+		"/C/xampp/mysql/bin/my.ini",
+		"/C/xampp/htdocs/Angular2/Angular2/webapp/app/model/restaurante.ts",
+		"/C/xampp/htdocs/Angular2/Angular2/webapp/app/view/restaurantes.html",
+		"/C/xampp/htdocs/Angular2/Angular2/webapp/restaurantes-api.php",
+		"/C/xampp/htdocs/Angular2/Angular2/webapp/package.json",
+		"/C/xampp/htdocs/Angular2/Angular2/webapp/typings.json",
+		"/C/xampp/htdocs/Angular2/Angular2/webapp/tsconfig.json",
+		"/C/xampp/htdocs/Angular2/Angular2/webapp/app/main.ts",
+		"/C/xampp/htdocs/Angular2/Angular2/webapp/angular-webapp.sql",
+		"/C/xampp/htdocs/Angular2/Angular2/Ang2-U02-V09-AA1/app/app.component.ts",
+		"/C/xampp/htdocs/Angular2/Angular2/Ang2-U02-V09-AA1/app/components/nuevo.component.ts",
+		"/C/xampp/htdocs/Angular2/Angular2/Ang2-U02-V09-AA1/app/components/catalogo.component.ts",
+		"/C/xampp/htdocs/Angular2/Angular2/Ang2-U02-V09-AA1/app/view/catalogo-cursos.html",
+		"/C/xampp/htdocs/Angular2/.htaccess",
+		"/C/xampp/apache/conf/extra/httpd-xampp.conf",
+		"/C/xampp/htdocs/Angular2/Angular2/Ang2-U02-V09-AA1/assets/css/styles.css",
+		"/C/xampp/htdocs/Angular2/Angular2/Ang2-U02-V09-AA1/app/view/cursos.html",
+		"/C/xampp/htdocs/Angular2/Angular2/Ang2-U02-V09-AA1/app/services/cursos.service.ts",
+		"/C/xampp/htdocs/Angular2/Angular2/Ang2-U02-V09-AA1/app/main.js",
+		"/C/xampp/htdocs/Angular2/Angular2/Ang2-U02-V09-AA1/app/view/contacto-cursos.html",
+		"/C/xampp/htdocs/Angular2/Angular2/Ang2-U02-V09-AA1/app/components/contacto.component.ts",
+		"/C/xampp/htdocs/Angular2/Angular2/Ang2-U02-V09-AA1/index.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"5",
+			"pane",
+			"color",
+			"45",
+			"25",
+			"6",
+			"25",
+			"}\n",
+			".section-title{\n	position: absolute;\n	margin-top: 2.5%;\n	z-index: 4444;\n}",
+			"2",
+			"200",
+			"#DA1C5C",
+			"IfModule ",
+			"IfModule mod_headers.c",
+			"'",
+			"foot",
+			".home-footer",
+			".home-foo",
+			"home-foo",
+			".home-foo",
+			"display_errors",
+			"home-logo",
+			"users",
+			"user-info",
+			"<section data-route=”home”>",
+			"carouse",
+			"oldselected",
+			"demo",
+			"gall",
+			"overlay",
+			"AkzidenzGrotesk",
+			"a",
+			"button",
+			"overlay",
+			"butt",
+			"Akzidenz-Grotesk BQ",
+			"Photos",
+			"Fotos",
+			"span",
+			"drags",
+			"button.cont",
+			"span",
+			"Mission",
+			"objetives",
+			"span",
+			"Akzidenz-Grotesk BQ Extended",
+			"dragslider",
+			"contacto",
+			"ref",
+			"calenda",
+			"cale",
+			"calendario",
+			"calen",
+			"dragdealer2",
+			"youtube.com",
+			"iframe",
+			"h1",
+			"img/thumb/sapo doocumentos octavio",
+			"thumb",
+			"nav",
+			"nav-prev",
+			"bgIn",
+			"h3",
+			"h1",
+			"icon",
+			"icon nav-prev",
+			"h1",
+			"calendario",
+			"h1",
+			"SECTION",
+			"p",
+			"conten",
+			"figure",
+			"img",
+			"slideshow",
+			"ul",
+			"Letterpress asymmetrical",
+			"font",
+			"Tradición",
+			"REDES",
+			"skip_CaptchaCode",
+			"cont",
+			"logo",
+			"content",
+			"introORH",
+			"img1b",
+			"orhFacePic",
+			"textCon",
+			"_precio",
+			"í",
+			"ó",
+			"555",
+			"container",
+			"Scatter",
+			"bsm",
+			"servername",
+			"servernam",
+			"serverna,e",
+			"server",
+			"\"",
+			"conectarse",
+			"conectarse()",
+			"mod_file_cache",
+			"CacheFile",
+			"cache",
+			"File Caching",
+			"conexion",
+			"root"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#D91C5C",
+			"\"",
+			"oldSelected",
+			"Akzidenz-Grotesk",
+			"img/photo/01.jpg",
+			"document"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "C:\\xampp\\htdocs\\Kreys\\KreysIndustries"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/app/contact/contact.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1314,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								310,
+								310
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/xampp/htdocs/Kreys/pre-prod/systemjs.config.server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1826,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								554,
+								554
+							]
+						],
+						"settings":
+						{
+							"auto_name": "paths: {",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 275.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/xampp/htdocs/Kreys/Elementos/curso-angular2-final/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 765,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								229,
+								667
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/xampp/htdocs/Kreys/pre-prod/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1423,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1080,
+								1080
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 120.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/main.ts",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 336,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"extensions":
+							[
+								"ts"
+							],
+							"syntax": "Packages/ArcticTypescript/theme/Typescript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 30.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 30.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
