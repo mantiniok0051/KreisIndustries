@@ -1,0 +1,21 @@
+#footer{
+
+	font-family: 'SukhumvitSet';
+	line-height: 2pt;
+	color: #FFFFFF;
+	background-color: rgba(0, 0, 0, 0);
+	text-align: center;
+	z-index: 9999;
+	margin-top: -.7%;
+}
+p{
+	z-index: 9999;
+	padding-top:4px;
+	margin-top: 3px;
+}
+a{
+	z-index: 9999;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-family: 
+}

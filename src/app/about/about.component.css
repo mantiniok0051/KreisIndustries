@@ -1,0 +1,154 @@
+.about{
+	background-image: url('../../assets/imgs/backgrounds/About-industrias-Kreis.jpg');
+}
+.KreisIndustries-iconlogo{
+	z-index: 8888;
+	min-height: 50%;
+	min-width: 50%;
+	max-height: 50%;
+	max-width: 50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto; 
+
+}
+.about-logo-container{
+	z-index: 8888;
+	text-align: center;
+	width: 100%;
+    /*border-color: #DA1C5C;
+	border-width: 15px;
+	border-style: solid; */   
+	display: inline-block;
+	margin-top: -24%;
+	margin-bottom: -1%;
+	overflow: hidden;
+}
+/*.blurpane{
+	text-align: right;
+	z-index: 60;
+	min-height: 100%;
+	min-width: 100%;
+}*/
+/*.color-blur{
+	float: right;
+	background-color: rgba(40,40,40,.8);
+	min-height: 100%;
+	min-width: 50%;
+	max-height: 100%;
+	max-width: 50%;
+}*/
+.lines-container{
+	padding-left: 28%;
+	position: absolute;
+	margin-top: 0%;
+	z-index: 10;
+	text-align: right;
+	overflow: hidden;
+	/*border: 2px solid #D91C5C;*/
+	/*background-color: rgba(40,40,40,.8);*/
+}
+.about-lines{
+	z-index: 8888;
+	float: right;
+	max-height: 67%;
+	max-width: 70.1%;
+}
+.quote-container{
+	z-index: 8888;
+	margin-left: 25%;
+	max-width: 20%;
+	font-family: 'SukhumvitSet';
+}
+q{	
+	z-index: 8888;
+	padding: 10%;
+	font-size: 175%;
+	color:  #FFFFFF;
+}
+small{
+	z-index: 8888;
+	float: right;
+	text-align: right;
+	font-size: 100%;
+	color:  #FFFFFF;
+}
+.about-txt{	
+	z-index: 5555;
+	padding-right: 8px;
+	float: right;
+	max-width: 20%;
+	max-height: 5%;
+	overflow: hidden;
+}
+h3{
+	z-index: 8888;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	font-family: 'SukhumvitSet';
+}
+p{
+	z-index: 8888;
+	text-align: justify;
+	font-family: 'HelveticaNueLTCom';
+	color: #58595B;
+}
+.bio{
+	z-index: 8888;
+	margin-top: -12%;
+	margin-right: 28%;
+}
+.philo{
+	z-index: 8888;
+	margin-top:2.4%;
+	margin-bottom:1.5%;
+}
+.kreis-logo-sm{
+	z-index: 8888;
+	text-align: center;
+	float: right;
+	margin-left: 50%;
+	margin-top: -18%;
+	/*border: 2px solid #D91C5C;
+	background-color: rgba(40,40,40,.8); */
+}
+.kreis-logo-gray{
+	z-index: 8888;
+	margin: 0 auto;
+	max-width: 80%;
+	max-height: 80%;
+}
+.blur-wrap{
+	padding-left: 30.2%;
+	text-align: right;
+	position: absolute;
+	z-index: 1;
+	margin-top: -50.5%;
+	margin-bottom: 0%;
+	margin-right: -0.5%;
+	margin-left: -1%;
+	display: block;
+	overflow: hidden;/*
+    border: 2px solid #99AAAA;
+	background-color: rgba(0, 255, 255, 0.5);*/
+}
+.blur{
+	background-color: rgba(0, 0, 0, 1);
+	z-index: 1;
+	position: relative;	
+	-webkit-filter: blur(4px);
+    -moz-filter: blur(4px);
+    -o-filter: blur(4px);
+    -ms-filter: blur(4px);
+    filter: blur(4px);
+}
+
+.blur-img{
+	text-align: inherit;
+	margin-top: -0.5%;
+	z-index: 1;
+	margin-right: 0%;
+	max-height: 71.5%;
+	max-width: 71.5%;
+	background-color: rgba(0, 0, 0, 0.5);
+}
