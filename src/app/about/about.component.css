@@ -1,3 +1,10 @@
+
+@font-face{
+	font-family: 'HelveticaNueLTCom'; src: url('/assets/fonts/HelveticaNeueLTCom-Lt.ttf');
+}
+@font-face{
+	font-family: 'SukhumvitSet'; src: url('/assets/fonts/SukhumvitSet.ttc');
+}
 .about{
 	background-image: url('../../assets/imgs/backgrounds/About-industrias-Kreis.jpg');
 }
