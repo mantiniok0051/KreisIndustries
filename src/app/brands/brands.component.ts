@@ -10,6 +10,7 @@ export class BrandsComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
+    console.log("Kreis Industries Brands")
   }
 
 }
