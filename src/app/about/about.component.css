@@ -46,7 +46,7 @@
 	z-index: 8888;
 	margin-left: 25%;
 	max-width: 20%;
-	font-family: 'SukhumvitSet';
+	font-family: 'SukhumvitSet', 'sans-serif';
 }
 q{	
 	z-index: 8888;
@@ -73,12 +73,12 @@ h3{
 	z-index: 8888;
 	text-transform: uppercase;
 	color: #FFFFFF;
-	font-family: 'SukhumvitSet';
+	font-family: 'SukhumvitSet', 'sans-serif';
 }
 p{
 	z-index: 8888;
 	text-align: justify;
-	font-family: 'HelveticaNueLTCom';
+	font-family: 'HelveticaNueLTCom', 'sans-serif';
 	color: #58595B;
 }
 .bio{
