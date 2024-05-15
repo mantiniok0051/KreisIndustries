@@ -16,5 +16,5 @@ export class AboutComponent implements OnInit {
 
   ngOnInit() {
   }
-
+ console.log("About component initiated")
 }
