@@ -17,10 +17,8 @@
 	text-align: center;
 /*	border: 2px solid #D91C5C;
 	background-color: rgba(40,40,40,.8);	*/
-	z-index: 8888;
 	display: inline-block;
-	overflow: hidden;	
-	text-align: center;
+	overflow: hidden;
 }
 .KreisIndustries-logo{
 	max-height: 65%;
