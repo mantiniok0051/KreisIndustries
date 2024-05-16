@@ -7,9 +7,12 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ServicePortfolioComponent implements OnInit {
   public title:string = 'Services';
-  constructor() { }
+  constructor() {
+    console.log("KreisIndustries ServicePortfolioComponent")
+  }
 
   ngOnInit() {
+    console.log("KreisIndustries ServicePortfolioComponent")
   }
 
 }
