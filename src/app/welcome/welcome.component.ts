@@ -7,9 +7,12 @@ import { Component, OnInit } from '@angular/core';
 })
 export class WelcomeComponent implements OnInit {
   public title:string = 'Welcome!';
-  constructor() { }
+  constructor() {
+    console.log("KreisIndustries WelcomeComponent")
+  }
 
   ngOnInit() {
+    console.log("KreisIndustries WelcomeComponent")
   }
 
 }
