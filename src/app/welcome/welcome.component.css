@@ -15,8 +15,6 @@
 	z-index: 8888;
 	width: 50%;
 	text-align: center;
-/*	border: 2px solid #D91C5C;
-	background-color: rgba(40,40,40,.8);	*/
 	display: inline-block;
 	overflow: hidden;
 }
@@ -28,7 +26,6 @@
 	margin-right: auto;
 	z-index: 8888;
 	display: block;
-/*	border: 2px solid #D91C5C;*/
 }
 .lines-container{
 	margin-left: -2%;
@@ -37,8 +34,6 @@
 	z-index: 1;
 	text-align: right;
 	overflow: hidden;
-/*	border: 2px solid #D91C5C;
-	background-color: rgba(40,40,40,.8);*/
 }
 .welcome-lines{
     background-color: rgba(0, 0, 0, 0.1);
