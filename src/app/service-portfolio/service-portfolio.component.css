@@ -12,9 +12,6 @@
 	z-index: 8888;
 	text-align: center;
 	width: 100%;
-   /* border-color: #DA1C5C;
-	border-width: 1px;
-	border-style: solid;*/
 	display: inline-block;
 	margin-top: -1.7%;
 	margin-bottom: -0.5%;
@@ -37,9 +34,7 @@
 	margin-top: -24%;
 	margin-bottom:5%;
 	z-index: 10;
-	text-align: center;/*
-	border: 2px solid #D91C5C;
-	background-color: rgba(40,40,40,.8);*/
+	text-align: center;
 	overflow:hidden;
 }
 .services-lines{
