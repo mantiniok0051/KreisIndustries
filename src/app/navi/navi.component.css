@@ -11,7 +11,7 @@ a{
 }
 nav a{
 	z-index: 9999;
-	font-family: 'HelveticaNueLTCom';
+	font-family: HelveticaNueLTCom, sans-serf;
 	padding-top: 4px;
 	padding-right: 14px;
 	padding-left: 14px;
