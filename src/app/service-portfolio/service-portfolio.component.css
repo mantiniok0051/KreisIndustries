@@ -94,11 +94,11 @@
 .service h3{
 	text-align: left;
 	text-transform: capitalize;
-	font-family: 'HelveticaNueLTCom';
+	font-family: HelveticaNueLTCom, sans-serf;
 }
 .service p{
 	text-align: justify;
-	font-family: 'SukhumvitSet';
+	font-family: SukhumvitSet, sans-serf;
 }
 .kreis-logo-sm{
 	margin-top: -14%;
