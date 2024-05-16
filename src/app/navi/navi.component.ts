@@ -8,9 +8,12 @@ import { Component, OnInit } from '@angular/core';
 export class NaviComponent implements OnInit {
    public items:string[] = ['Welcome', 'About', 'Services', 'Brands', 'Gallery', 'Contact'];
 
-  constructor() { }
+  constructor() {
+    console.log("KreisIndustries NaviComponent")
+  }
 
   ngOnInit() {
+    console.log("KreisIndustries NaviComponent")
   }
 
 }
