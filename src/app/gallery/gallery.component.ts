@@ -7,9 +7,12 @@ import { Component, OnInit } from '@angular/core';
 })
 export class GalleryComponent implements OnInit {
   public title:string = 'Gallery';
-  constructor() { }
+  constructor() {
+    console.log("KreisIndustries GalleryComponent")
+  }
 
   ngOnInit() {
+    console.log("KreisIndustries GalleryComponent")
   }
 
 }
